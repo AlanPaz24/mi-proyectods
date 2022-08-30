@@ -28,7 +28,7 @@
     justify-content: space-evenly;
     align-items: center;
 }
-.menu :hover{ transform: skewY(20deg);}
+.menu :hover{ transform: skewY(5deg);}
 .menu__item{
     color: aliceblue;
 
