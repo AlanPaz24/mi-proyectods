@@ -17,6 +17,10 @@
     width: 15%;
     border-radius: 90%;
 }
+.animate__animated img {
+    width: 15%;
+    border-radius: 90%;
+}
 .nav{
     
     width: 100%;
@@ -98,6 +102,9 @@
 .section__formulario {
     display: grid;
     grid-template-rows: 1fr 1fr;
+    justify-content: center;
+    justify-items: center
+
     
 }
 .titulo__formulario{
